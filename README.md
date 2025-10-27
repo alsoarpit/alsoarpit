@@ -1,42 +1,48 @@
-# 👋 Hi, I'm Arpit Maurya
+### Hello World! <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/Hi.gif" width="29px">
+![](https://komarev.com/ghpvc/?username=alsoarpit&label=Profile%20Visits&color=blue&style=for-the-badge)
 
-💻 Full-Stack Engineer | 3+ years | React · Node · AWS · PostgreSQL  
-🌐 [Portfolio](https://alsoarpit.com) · [LinkedIn](https://linkedin.com/in/alsoarpit) · [GitHub](https://github.com/alsoarpit) · 📧 alsoarpit@gmail.com
-
----
-
-## 🚀 About Me  
-I’m a software engineer who loves building fast, reliable, and clean web apps.  
-At **Particle41**, I’ve helped design systems used by multiple internal teams and cut costs by ₹10 L/year.  
-Previously at **Toddle** and **Pepcoding**, I shipped features, fixed performance issues, and mentored developers.  
+- 🔭 I’m a Software Engineer (SDE-2) who loves building fast, scalable web apps.  
+- 🌱 Currently learning Go & system design for high-performance apps.  
+- 💬 Ask me about React, Node.js, AWS, PostgreSQL, or anything full-stack.  
+- ⚡ Fun fact: I break things just to rebuild them better.  
 
 ---
 
-## 🛠️ Stack  
-**Frontend:** React, Next.js, Tailwind  
-**Backend:** Node.js, Express, PostgreSQL  
-**Cloud:** AWS, Docker, CI/CD  
-**Other:** Python, Go, GraphQL, Jest  
+#### 👨🏻‍💻 Languages and Tools  
+
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Python](https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-3178C6?style=for-the-badge&logo=docker&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-D9281A?style=for-the-badge&logo=redis&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ---
 
-## 📈 GitHub Stats  
-
-<div align="center">
-
-![Stats](https://github-readme-stats.vercel.app/api?username=alsoarpit&show_icons=true&theme=radical&hide_border=true)
-![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alsoarpit&layout=compact&theme=radical&hide_border=true)
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=alsoarpit&theme=radical&hide_border=true)
-
-</div>
+#### 🏗️ What I’ve Built  
+- 🧠 **Catalyst41** — Internal workflow engine used by 7+ teams at Particle41.  
+- 🤖 **Automation Suite** — Puppeteer + AWS bots reducing manual work by 70%.  
+- 💰 **Bundlwise** — AI fintech app backed by IIM Kozhikode.  
+- 💻 **Web OS Clones** — macOS, Ubuntu & Windows built for browsers.  
 
 ---
 
-## 🏆 Highlights  
-- 🥇 Winner — Pep Hackathon (300+ participants)  
-- 💻 Solved 400+ DSA problems  
-- 🤝 Delivered 3+ freelance projects end-to-end  
+#### 📊 GitHub Stats  
+
+[![Arpit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=alsoarpit&show_icons=true&theme=radical)](https://github-readme-stats.vercel.app/api?username=alsoarpit&show_icons=true&theme=radical)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://github.com/qxprakash/sciencepal/blob/master/assets/saved.gif" width="195">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=alsoarpit&theme=juicyfresh&no-frame=true&row=1&&margin-w=20&no-bg=true)](https://github-profile-trophy.vercel.app/?username=alsoarpit&theme=juicyfresh&no-frame=true&row=1&&margin-w=20&no-bg=true)
 
 ---
 
-⭐ *Thanks for visiting — feel free to check out my projects or connect!*
+⭐ *Thanks for stopping by — check out [alsoarpit.com](https://alsoarpit.com) or drop a ⭐ on a repo if you liked my work!*

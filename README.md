@@ -42,10 +42,11 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://github.com/qxprakash/sciencepal/blob/master/assets/saved.gif" width="195">
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=alsoarpit&theme=radical&no-frame=true&no-bg=true&row=1&margin-w=15" alt="GitHub Trophies"/>
-</p>
+#### 🏆 GitHub Trophies  
 
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=alsoarpit&theme=onedark&no-frame=true&row=1&column=6" alt="alsoarpit trophies" />
+</div>
 ---
 
 ⭐ *Thanks for visiting! Check out my work at [alsoarpit.com](https://alsoarpit.com) or drop a ⭐ if you liked it!*

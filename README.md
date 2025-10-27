@@ -27,11 +27,12 @@
 
 ---
 
-#### 🏗️ Featured Projects  
+#### 🚀 Featured Projects  
 
-- 💰 **[Bundlwise](https://bundlwise.com)** — AI fintech app backed by IIM Kozhikode.  
-- 💻 **[Web OS Clones](https://arpitmaurya-mac-os-clone.netlify.app)** — macOS, Ubuntu & Windows built for browsers.  
-  <sub>Also live at [Ubuntu Clone](https://ubuntu-clone-aryo.web.app)</sub>
+- 💰 **[Bundlwise](https://bundlwise.com)** — AI-powered fintech platform backed by IIM Kozhikode; built scalable backend and analytics dashboard from scratch.  
+- 💻 **[macOS Web Clone](https://arpitmaurya-mac-os-clone.netlify.app)** — Interactive browser-based macOS replica with real-time apps and animations.  
+- 🧠 **[Ubuntu & Windows Clones](https://ubuntu-clone-aryo.web.app)** — Full desktop environments re-created for the web with 25+ integrated apps.  
+
 
 ---
 

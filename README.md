@@ -1,10 +1,10 @@
 ### Hello World! <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/Hi.gif" width="29px">
 ![](https://komarev.com/ghpvc/?username=alsoarpit&label=Profile%20Visits&color=blue&style=for-the-badge)
 
-- 🔭 I’m a Software Engineer (SDE-2) who loves building fast, scalable web apps.  
-- 🌱 Currently learning Go & system design for high-performance apps.  
-- 💬 Ask me about React, Node.js, AWS, PostgreSQL, or anything full-stack.  
-- ⚡ Fun fact: I break things just to rebuild them better.  
+- 🔭 I’m a Software Engineer (SDE-2) who builds fast, scalable apps.  
+- 🌱 Currently exploring Go & system design for large-scale systems.  
+- 💬 Ask me about React, Node.js, AWS, PostgreSQL, or product-scale architecture.  
+- ⚡ Fun fact: I love breaking things to rebuild them cleaner.  
 
 ---
 
@@ -27,11 +27,11 @@
 
 ---
 
-#### 🏗️ What I’ve Built  
-- 🧠 **Catalyst41** — Internal workflow engine used by 7+ teams at Particle41.  
-- 🤖 **Automation Suite** — Puppeteer + AWS bots reducing manual work by 70%.  
-- 💰 **Bundlwise** — AI fintech app backed by IIM Kozhikode.  
-- 💻 **Web OS Clones** — macOS, Ubuntu & Windows built for browsers.  
+#### 🏗️ Featured Projects  
+
+- 💰 **[Bundlwise](https://bundlwise.com)** — AI fintech app backed by IIM Kozhikode.  
+- 💻 **[Web OS Clones](https://arpitmaurya-mac-os-clone.netlify.app)** — macOS, Ubuntu & Windows built for browsers.  
+  <sub>Also live at [Ubuntu Clone](https://ubuntu-clone-aryo.web.app)</sub>
 
 ---
 
@@ -45,4 +45,4 @@
 
 ---
 
-⭐ *Thanks for stopping by — check out [alsoarpit.com](https://alsoarpit.com) or drop a ⭐ on a repo if you liked my work!*
+⭐ *Thanks for visiting! Check out my work at [alsoarpit.com](https://alsoarpit.com) or drop a ⭐ if you liked it!*

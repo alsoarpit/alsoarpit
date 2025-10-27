@@ -44,9 +44,9 @@
 
 #### 🏆 GitHub Trophies  
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=alsoarpit&theme=onedark&no-frame=true&row=1&column=6" alt="alsoarpit trophies" />
-</div>
----
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ryo-ma/github-profile-trophy/master/assets/flag.png" width="20"/>  
+  <img src="https://github-profile-trophy.vercel.app/?username=alsoarpit&theme=tokyonight&no-frame=true&margin-w=10" alt="alsoarpit trophies"/>
+</p>
 
 ⭐ *Thanks for visiting! Check out my work at [alsoarpit.com](https://alsoarpit.com) or drop a ⭐ if you liked it!*

@@ -1,8 +1,5 @@
 <!-- 🧠 ARPIT MAURYA | alsoarpit.com -->
 <h1 align="center">👨‍💻 Arpit Maurya</h1>
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FF99&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Arpit+Maurya!;SDE-2+@+Particle41;Full-Stack+Engineer+(React%2C+Node%2C+AWS);Building+AI-Driven+Fintech+Products+🚀" alt="Typing SVG" />
-</p>
 
 ---
 
@@ -18,10 +15,17 @@
 ---
 
 ### ⚙️ Tech Stack
-
 ```bash
 Frontend:  React · Next.js · Zustand · TailwindCSS  
 Backend:   Node.js · Express · GraphQL · Socket.io  
 Database:  PostgreSQL · MongoDB · Redis  
 DevOps:    AWS (EC2 · Lambda · S3) · Docker · CI/CD · GCP  
 Tools:     Jest · TDD · Figma · Storybook
+
+---
+; ARPIT MAURYA — GITHUB A RECORD
+; HOST                       TYPE   VALUE
+@ github:alsoarpit           A+     commits: 3.9 k  |  PRs: 145  |  Issues: 60
+@ github:alsoarpit           A+     repos: 48      |  stars: 1.2 k  |  forks: 210
+@ github:alsoarpit           A+     streak: 120 days  |  top langs: JS • TS • Go • SQL
+@ github:alsoarpit           TTL    updated: 2025-10-27 05:00 UTC

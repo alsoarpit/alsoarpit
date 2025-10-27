@@ -42,7 +42,9 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://github.com/qxprakash/sciencepal/blob/master/assets/saved.gif" width="195">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=alsoarpit&theme=juicyfresh&no-frame=true&row=1&&margin-w=20&no-bg=true)](https://github-profile-trophy.vercel.app/?username=alsoarpit&theme=juicyfresh&no-frame=true&row=1&&margin-w=20&no-bg=true)
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=alsoarpit&theme=radical&no-frame=true&no-bg=true&row=1&margin-w=15" alt="GitHub Trophies"/>
+</p>
 
 ---
 
